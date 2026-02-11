@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "time": "09:00 AM",
+      "session": "Opening Ceremony",
+      "contest": "Global Hackathon 2026"
+    },
+    {
+      "time": "10:30 AM",
+      "session": "Idea Pitching",
+      "contest": "Global Hackathon 2026"
+    },
+    {
+      "time": "01:00 PM",
+      "session": "Coding Session",
+      "contest": "Global Hackathon 2026"
+    },
+    {
+      "time": "06:00 PM",
+      "session": "Project Submission",
+      "contest": "Global Hackathon 2026"
+    },
+    {
+      "time": "07:30 PM",
+      "session": "Judging & Awards",
+      "contest": "Global Hackathon 2026"
+    }
+  ]
+}
